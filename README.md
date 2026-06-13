@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
-# Run and deploy your AI Studio app
+🚀 Sobre o Projeto
 
-This contains everything you need to run your app locally.
+Este site foi desenvolvido e otimizado pela Lif3 Digital Media , sob a liderança e desenvolvimento de Anderson Chiesa .
+A Lif3 Digital Media entrega soluções web modernas, focadas em alta conversão e experiência do usuário (UX). Este projeto destaca os seguintes diferenciais tecnológicos:
 
-View your app in AI Studio: https://ai.studio/apps/01a94da7-2246-43a3-9bc5-a0496524c8e0
+Design Fluido e Dinâmico: Implementação de animações e transições simples, que tornam a navegação leve, intuitiva e sofisticada.
 
-## Run Locally
+Inteligência Artificial Integrada: Um agente de IA robusto e conectado em tempo real para responder de forma imediata a todas as dúvidas dos clientes.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Simulador de Elegibilidade: Uma ferramenta interativa exclusiva para que o usuário possa validar, de forma instantânea, quais cursos ele é elegível para se inscrever e utilizar.
