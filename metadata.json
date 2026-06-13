@@ -1,0 +1,6 @@
+{
+  "name": "Smartweld Brasil",
+  "description": "Escola de soldagem de alta performance e consultoria em engenharia e inspeções. Calcule sua habilitação oficial para os exames da NBR 14842 N1 / N2!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
